@@ -38,3 +38,7 @@ made me consider the body element's height.
 ## Author
 
 Me (repo creator)
+
+## Note
+
+Sorry if I did anything wrong, it's my first time using Git and GitHub to actually make something on my own.
