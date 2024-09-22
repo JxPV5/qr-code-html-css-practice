@@ -22,6 +22,10 @@ Page
 
 https://jxpv5.github.io/qr-code-html-css-practice/
 
+## Screenshot
+
+
+
 ## Built with
 
 HTML + CSS
