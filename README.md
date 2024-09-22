@@ -24,7 +24,7 @@ https://jxpv5.github.io/qr-code-html-css-practice/
 
 ## Screenshot
 
-
+pagescreenshot.png
 
 ## Built with
 
