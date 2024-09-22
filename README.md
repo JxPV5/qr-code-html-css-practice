@@ -1,1 +1,1 @@
-Practice
+Frontend Mentor first practice task.

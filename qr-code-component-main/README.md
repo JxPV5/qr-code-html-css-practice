@@ -1,1 +1,1 @@
-Project 1 from frontendmentor
+First practice task.
